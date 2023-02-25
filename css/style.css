@@ -1442,11 +1442,12 @@ footer {
 }
 
 .litle_pad_foot {
-    padding: 11px 19px 5px 0;
+      padding: 6px 20px 9px 3px;
 }
 
 .tipo_link {
     position: relative;
+    padding: 26px 0 0 0;
 }
 
 .tipo_link::before {
@@ -1457,7 +1458,7 @@ footer {
     background: white;
     position: absolute;
     border: 4px solid  #ecbc35;
-    top: 5px;
+    top: 12px;
     left: 179px;
 }
 
@@ -1472,7 +1473,7 @@ footer {
     border-right: 4px solid #ecbc35 ;
     border-left: 4px solid transparent;
     border-bottom: 4px solid transparent;
-    top: 12px;
+    top: 18px;
     left: 185px;
 }
 
